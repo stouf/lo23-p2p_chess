@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1040/trunk/src/lo23/data/managers
+END
+GameManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1040/trunk/src/lo23/data/managers/GameManager.java
+END
+GameManagerInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/992/trunk/src/lo23/data/managers/GameManagerInterface.java
+END
+Manager.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/618/trunk/src/lo23/data/managers/Manager.java
+END
+ProfileManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/975/trunk/src/lo23/data/managers/ProfileManager.java
+END
+ProfileManagerInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/975/trunk/src/lo23/data/managers/ProfileManagerInterface.java
+END

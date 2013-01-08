@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/691/trunk/src/lo23/data/exceptions
+END
+IllegalMoveException.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/691/trunk/src/lo23/data/exceptions/IllegalMoveException.java
+END
+UndefinedGamePieceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/691/trunk/src/lo23/data/exceptions/UndefinedGamePieceException.java
+END
+WrongInvitation.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/691/trunk/src/lo23/data/exceptions/WrongInvitation.java
+END
+NoIdException.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/691/trunk/src/lo23/data/exceptions/NoIdException.java
+END
+FileNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/691/trunk/src/lo23/data/exceptions/FileNotFoundException.java
+END
+ProfileIdAlreadyExistException.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/691/trunk/src/lo23/data/exceptions/ProfileIdAlreadyExistException.java
+END
+ProfilePseudoAlreadyExistException.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/691/trunk/src/lo23/data/exceptions/ProfilePseudoAlreadyExistException.java
+END

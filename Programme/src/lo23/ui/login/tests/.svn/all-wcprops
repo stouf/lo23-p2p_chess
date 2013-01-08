@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/958/trunk/src/lo23/ui/login/tests
+END
+ihmLoginAllTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/717/trunk/src/lo23/ui/login/tests/ihmLoginAllTests.java
+END
+IhmConnexionWindowTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/717/trunk/src/lo23/ui/login/tests/IhmConnexionWindowTest.java
+END
+IhmListGamesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/958/trunk/src/lo23/ui/login/tests/IhmListGamesTest.java
+END
+IhmProfileWindowTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/958/trunk/src/lo23/ui/login/tests/IhmProfileWindowTest.java
+END
+IhmListPlayersTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/958/trunk/src/lo23/ui/login/tests/IhmListPlayersTest.java
+END

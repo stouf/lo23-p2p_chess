@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/1043/trunk/src/lo23/data
+END
+PublicProfile.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/959/trunk/src/lo23/data/PublicProfile.java
+END
+Profile.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/913/trunk/src/lo23/data/Profile.java
+END
+Event.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/913/trunk/src/lo23/data/Event.java
+END
+Position.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/913/trunk/src/lo23/data/Position.java
+END
+ApplicationModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/193/trunk/src/lo23/data/ApplicationModel.java
+END
+Invitation.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/913/trunk/src/lo23/data/Invitation.java
+END
+Message.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/913/trunk/src/lo23/data/Message.java
+END
+Move.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/913/trunk/src/lo23/data/Move.java
+END
+GridState.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/901/trunk/src/lo23/data/GridState.java
+END
+Game.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/963/trunk/src/lo23/data/Game.java
+END
+Constant.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1017/trunk/src/lo23/data/Constant.java
+END
+ResumeGame.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/435/trunk/src/lo23/data/ResumeGame.java
+END
+Player.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/913/trunk/src/lo23/data/Player.java
+END
+NewInvitation.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1033/trunk/src/lo23/data/NewInvitation.java
+END

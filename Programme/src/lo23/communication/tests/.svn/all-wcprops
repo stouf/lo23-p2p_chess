@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/997/trunk/src/lo23/communication/tests
+END
+MainTestChatClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/916/trunk/src/lo23/communication/tests/MainTestChatClient.java
+END
+SuperMain.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/839/trunk/src/lo23/communication/tests/SuperMain.java
+END
+MainTest1.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/996/trunk/src/lo23/communication/tests/MainTest1.java
+END
+TestMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/232/trunk/src/lo23/communication/tests/TestMsg.java
+END
+MainTestImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/997/trunk/src/lo23/communication/tests/MainTestImage.java
+END
+MainTestMulticast.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/541/trunk/src/lo23/communication/tests/MainTestMulticast.java
+END
+MainTestMulticastAnswer.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/541/trunk/src/lo23/communication/tests/MainTestMulticastAnswer.java
+END
+MainTestChatServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/916/trunk/src/lo23/communication/tests/MainTestChatServer.java
+END

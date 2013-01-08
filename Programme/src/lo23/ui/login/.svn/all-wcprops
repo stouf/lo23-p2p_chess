@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/996/trunk/src/lo23/ui/login
+END
+WaitingDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/957/trunk/src/lo23/ui/login/WaitingDialog.java
+END
+IhmProfileWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/975/trunk/src/lo23/ui/login/IhmProfileWindow.java
+END
+IhmListGames.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/976/trunk/src/lo23/ui/login/IhmListGames.java
+END
+IhmConnexionWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/975/trunk/src/lo23/ui/login/IhmConnexionWindow.java
+END
+IhmLoginModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/969/trunk/src/lo23/ui/login/IhmLoginModel.java
+END
+IhmListGames.form
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/957/trunk/src/lo23/ui/login/IhmListGames.form
+END
+IHMList.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/976/trunk/src/lo23/ui/login/IHMList.java
+END
+IHMList.form
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/710/trunk/src/lo23/ui/login/IHMList.form
+END

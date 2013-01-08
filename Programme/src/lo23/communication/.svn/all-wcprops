@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1030/trunk/src/lo23/communication
+END
+IReceiveListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/839/trunk/src/lo23/communication/IReceiveListener.java
+END
+ISender.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/890/trunk/src/lo23/communication/ISender.java
+END
+ComManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/954/trunk/src/lo23/communication/ComManager.java
+END

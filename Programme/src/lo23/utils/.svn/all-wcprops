@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/995/trunk/src/lo23/utils
+END
+ResourceManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/850/trunk/src/lo23/utils/ResourceManager.java
+END
+JTableButtonRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/366/trunk/src/lo23/utils/JTableButtonRenderer.java
+END
+Configuration.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/811/trunk/src/lo23/utils/Configuration.java
+END
+Enums.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/995/trunk/src/lo23/utils/Enums.java
+END
+RandomUUID.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/685/trunk/src/lo23/utils/RandomUUID.java
+END
+JTableButtonMouseListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/368/trunk/src/lo23/utils/JTableButtonMouseListener.java
+END

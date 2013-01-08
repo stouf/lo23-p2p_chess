@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1030/trunk/src/lo23/communication/message
+END
+MulticastInvit.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/799/trunk/src/lo23/communication/message/MulticastInvit.java
+END
+InvitMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/839/trunk/src/lo23/communication/message/InvitMsg.java
+END
+ConstantMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/839/trunk/src/lo23/communication/message/ConstantMsg.java
+END
+GameEndedMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1030/trunk/src/lo23/communication/message/GameEndedMsg.java
+END
+ConnectionMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/180/trunk/src/lo23/communication/message/ConnectionMessage.java
+END
+Message.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/161/trunk/src/lo23/communication/message/Message.java
+END
+MulticastAnswer.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/799/trunk/src/lo23/communication/message/MulticastAnswer.java
+END
+MulticastDisconnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/799/trunk/src/lo23/communication/message/MulticastDisconnection.java
+END
+AnswerMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/839/trunk/src/lo23/communication/message/AnswerMsg.java
+END
+ChatMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/839/trunk/src/lo23/communication/message/ChatMsg.java
+END
+GameStartedMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/890/trunk/src/lo23/communication/message/GameStartedMsg.java
+END
+MulticastMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/799/trunk/src/lo23/communication/message/MulticastMessage.java
+END
+MoveMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/182/trunk/src/lo23/communication/message/MoveMsg.java
+END
+GameMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/180/trunk/src/lo23/communication/message/GameMessage.java
+END

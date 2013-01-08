@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/921/trunk/src/lo23/communication/handle
+END
+HandleMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/233/trunk/src/lo23/communication/handle/HandleMessage.java
+END
+HandleRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/558/trunk/src/lo23/communication/handle/HandleRunnable.java
+END
+HandleServerConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/232/trunk/src/lo23/communication/handle/HandleServerConnection.java
+END
+HandleSendMessageUDP.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/541/trunk/src/lo23/communication/handle/HandleSendMessageUDP.java
+END
+HandleReceiveMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/921/trunk/src/lo23/communication/handle/HandleReceiveMessage.java
+END
+ConnectionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/916/trunk/src/lo23/communication/handle/ConnectionListener.java
+END
+HandleSendMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/858/trunk/src/lo23/communication/handle/HandleSendMessage.java
+END
+HandleReceiveUDPMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/921/trunk/src/lo23/communication/handle/HandleReceiveUDPMessage.java
+END

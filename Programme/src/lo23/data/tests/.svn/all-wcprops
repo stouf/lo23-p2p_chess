@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/825/trunk/src/lo23/data/tests
+END
+PubSubTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/475/trunk/src/lo23/data/tests/PubSubTest.java
+END
+TestInit.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/574/trunk/src/lo23/data/tests/TestInit.java
+END
+GameManagerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/824/trunk/src/lo23/data/tests/GameManagerTest.java
+END
+TestCoupPossible.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/655/trunk/src/lo23/data/tests/TestCoupPossible.java
+END
+SerialDeserialTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/345/trunk/src/lo23/data/tests/SerialDeserialTest.java
+END
+TestInitMain.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/341/trunk/src/lo23/data/tests/TestInitMain.java
+END
+TestLoadGame.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/825/trunk/src/lo23/data/tests/TestLoadGame.java
+END
+SerializerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/521/trunk/src/lo23/data/tests/SerializerTest.java
+END
+GameMangerJUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/824/trunk/src/lo23/data/tests/GameMangerJUnit.java
+END
